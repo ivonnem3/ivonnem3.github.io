@@ -3,6 +3,7 @@
   box-sizing: border-box;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode','Lucida Grande',
   'Lucida Sans', Arial, sans-serif;
+  text-color: #424949;
 
 }
 
@@ -29,10 +30,25 @@ nav a{
   text-align: center;
 }
 
+
+li {
+  color: #424949;
+}
+
+ul {
+  padding-top: None;
+  padding-bottom: 20px;
+}
+
 p {
   font-size: 15px;
   color: #424949;
   padding: 0 3em 2em 0
+}
+
+h2{
+  padding-top: 20px;
+
 }
 
 .profile-picture {
