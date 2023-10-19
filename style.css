@@ -20,6 +20,7 @@ nav {
   position: absolute;
   margin-top: 15px;
   margin-left: 10px;
+
 }
 
 nav a{
@@ -44,6 +45,8 @@ p {
   font-size: 15px;
   color: #424949;
   padding: 0 3em 2em 0
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2{
@@ -52,7 +55,7 @@ h2{
 }
 
 .profile-picture {
-  border-radius: 50%;
+  border-radius:50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -70,7 +73,8 @@ h2{
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  padding: 0rem 2rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .colum-right {
